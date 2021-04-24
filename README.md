@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deltd3v
-- 👀 I’m interested in UI/UX design & development
+- 👀 I’m interested in UI/UX design & web development
 - 🌱 I’m currently learning web development skills
-- 💞️ I’m looking for project's as a front-end designer & coder.
+- 💞️ I’m looking for project's as a front-end designer & developer.
 - 📫 How to reach me deltd3v@gmail.com.
 - :earth_asia: I'm based in Helsinki, Finland
 
