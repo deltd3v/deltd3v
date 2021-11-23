@@ -1,6 +1,6 @@
 ### Hi there, Im Evans Chaba! 👋
 
-## Im a Front End Web developer
+## Im a UI / UX Designer & Front-end Web developer
 
 - 🔭 I’m currently working on my portfolio, creating design shots and building a blog
 - 💬 Hit me up on insta @delt_i  
